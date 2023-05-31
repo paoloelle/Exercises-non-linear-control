@@ -83,7 +83,7 @@ P = value(P);
 
 % vedi esempio 9/12 
 
-B = [0; 1/m]; % il controllo agisce sull'accellerazione
+B = [0; 1/m]; % il controllo agisce sull'accelerazione
 
 % adesso verifico se il sistema è stabilizzabile, se così fosse esiste una
 % matrix P che poi mi consente di ricavare il guadagno K del controllore
